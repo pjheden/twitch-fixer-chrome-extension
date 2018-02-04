@@ -5,6 +5,7 @@
 
   "description": "Hides the section: streams in your language",
   "icons": {
+    "128": "icon_128.png",
     "64": "icon_64.png",
     "32": "icon_32.png",
     "24": "icon_24.png",
