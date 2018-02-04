@@ -1,4 +1,4 @@
-# Twitch Fixer
+# Twitch Fixer 1.0 beta
 
 Chrome extension that removes the Streams-In-{Language} section.
 
@@ -26,10 +26,6 @@ to the chrome developer dashboard: https://chrome.google.com/webstore/developer/
 
 Feel free to contribute!
 I will publish any good additions and credit accordingly.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
