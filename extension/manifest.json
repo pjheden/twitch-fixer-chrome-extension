@@ -16,6 +16,17 @@
     "default_title": "Toggle language stream visibility"
   },
 
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "default": "Alt+G",
+        "mac": "Alt+G"
+      },
+      "description": "Trigger the extension"
+    }
+  },
+
+
   "background": {
     "persistent": false,
     "scripts": ["background.js"]
